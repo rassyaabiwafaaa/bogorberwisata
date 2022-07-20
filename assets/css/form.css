@@ -1,0 +1,24 @@
+.form{
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+
+button{
+    width: 49.3%;
+    margin-top: 10px;
+}
+
+.oren {
+    background-color: #ed563b !important;
+    color: white;
+}
+
+.hitam {
+    background-color: #000000 !important;
+    color: white;
+}
+
+.atas{
+    margin-top: 96px !important;
+}
+

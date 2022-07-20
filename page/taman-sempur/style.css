@@ -1,0 +1,44 @@
+.nol{
+    margin-top: 0 !important;
+}
+
+
+iframe{
+    width: 235%;
+    height: 445px;
+}
+
+@media (max-width:100px) {
+  .social-list {
+      display:block;
+  }
+
+  .maincard {
+    position: relative;
+    width: 120px;
+    height: 80px;
+    margin-left: 10%;
+  }
+
+  iframe{
+    width: 2%;
+    height: 445px;
+}
+  
+
+}
+
+@media (max-width: 767px) {
+    iframe{
+        width: 170%;
+        height: 445px;
+    }
+  }
+
+  .font-link{
+    color: inherit;
+  }
+  
+  .link-footer a:hover{
+    color: #ed563b;
+  }

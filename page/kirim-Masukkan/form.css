@@ -1,0 +1,23 @@
+body{
+    overflow-x: hidden;
+}
+
+.kiri{
+    margin-left: 26% !important;
+}
+
+.kiri iframe{
+    width: 640px;
+    height: 745px;
+}
+
+ 
+
+@media (max-width: 900px) {
+
+    .kiri{
+        margin-left: 0 !important; 
+        max-width: 100;
+    }
+  
+  }

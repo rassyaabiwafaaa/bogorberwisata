@@ -1,0 +1,24 @@
+.nol{
+    margin-top: 0 !important;
+}
+
+
+iframe{
+    width: 235%;
+    height: 445px;
+}
+
+@media (max-width: 767px) {
+    iframe{
+        width: 170%;
+        height: 445px;
+    }
+  }
+
+  .font-link{
+    color: inherit;
+  }
+  
+  .link-footer a:hover{
+    color: #ed563b;
+  }
